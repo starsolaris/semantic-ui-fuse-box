@@ -1,0 +1,15 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@pageBackground: #e4e4e4;
+
+@importGoogleFonts : false;
+
+@relativeBorderRadius: 0;
+@absoluteBorderRadius: 0;
+
+@defaultBorderRadius: @absoluteBorderRadius;
+
+@textColor: #ffffff;
+@inputColor: #000000;
