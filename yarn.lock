@@ -663,10 +663,10 @@ fuse-box-typechecker@^3.0.0-next.31:
     tslib "^1.10.0"
     watch "^1.0.2"
 
-fuse-box@^4.0.0-next.423:
-  version "4.0.0-next.423"
-  resolved "https://registry.yarnpkg.com/fuse-box/-/fuse-box-4.0.0-next.423.tgz#b6b21067fa6993bc9a7d59fca289f96e9143616c"
-  integrity sha512-4FF96IxJVb30okOA32jOimkE+R1bo6tXM75PbkV1qXZK3DBY9WzmpiNfEt386t82YmF8x1BeN4cHIwDP784VeA==
+fuse-box@^4.0.0-next.424:
+  version "4.0.0-next.424"
+  resolved "https://registry.yarnpkg.com/fuse-box/-/fuse-box-4.0.0-next.424.tgz#33d0cf7986482c93553cfcda5abf492f8e8dda51"
+  integrity sha512-W/NWaMQCGtCkjVeTz1EoaNl3Jj1/kIm3swmX9HUKKGN/Fiizm/2MZLTSAfyIbTJnFWRUikqlPHfW6v47gE2z8A==
   dependencies:
     "@typescript-eslint/typescript-estree" "^2.21.0"
     app-root-path "^3.0.0"

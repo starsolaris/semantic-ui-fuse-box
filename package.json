@@ -9,7 +9,7 @@
     "start": "ts-node -T fuse"
   },
   "dependencies": {
-    "fuse-box": "^4.0.0-next.423",
+    "fuse-box": "^4.0.0-next.424",
     "fuse-box-typechecker": "^3.0.0-next.31",
     "less": "^3.11.1",
     "react": "^16.13.1",
