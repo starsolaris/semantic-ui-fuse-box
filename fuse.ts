@@ -4,7 +4,10 @@ import * as path from "path";
 
 const fuse = fusebox({
   target: "browser",
-  entry: 'src/index.tsx',
+  entry: 'src/app.tsx',
+  watcher: {
+    root: "./src/"
+  },
   webIndex: {
     publicPath: "./",
     template: 'src/index.html'
