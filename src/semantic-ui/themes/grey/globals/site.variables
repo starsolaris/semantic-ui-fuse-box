@@ -11,5 +11,5 @@
 
 @defaultBorderRadius: @absoluteBorderRadius;
 
-@textColor: #ffffff;
+@textColor: #000000;
 @inputColor: #000000;
